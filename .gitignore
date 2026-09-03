@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+.venv/
+.venv
+venv/
+env/
+agentic-rag/.venv/
+
+# Environment Variables & Secrets
+.env
+*.env
+*.env.local
+
+# Databases & Local Data
+data/
+chroma_db/
+agentic-rag/data/
+agentic-rag/chroma_db/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs & Testing
+*.log
+logs/
+.pytest_cache/
+.coverage
+htmlcov/
