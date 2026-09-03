@@ -1,7 +1,0 @@
-{
-  "venvPath": "agentic-rag",
-  "venv": ".venv",
-  "extraPaths": [
-    "agentic-rag"
-  ]
-}
